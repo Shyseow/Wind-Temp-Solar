@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1529006785 source:c:\users\shyseow\desktop\pass\assignment01\main.cpp
+	<iostream>
+
+1529715378 source:c:\users\shyseow\desktop\ict283_assignment1_seowhuiyin_33255186\assignment01\date.cpp
+	"Date.h"
+	<iostream>
+	<cstdlib>
+
+1529856209 c:\users\shyseow\desktop\ict283_assignment1_seowhuiyin_33255186\assignment01\date.h
+	<iostream>
+	<cstdlib>
+
+1529506969 source:c:\users\shyseow\desktop\ict283_assignment1_seowhuiyin_33255186\assignment01\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	"Date.h"
+	"Time.h"
+	"Weather.h"
+	"Vector.h"
+	"Menu.h"
+
+1529856209 c:\users\shyseow\desktop\ict283_assignment1_seowhuiyin_33255186\assignment01\time.h
+	<iostream>
+
+1529513492 source:c:\users\shyseow\desktop\ict283_assignment1_seowhuiyin_33255186\assignment01\time.cpp
+	"Time.h"
+	<iostream>
+	<cstdlib>
+
+1529166957 c:\users\shyseow\desktop\ict283_assignment1_seowhuiyin_33255186\assignment01\data.h
+	"Time.h"
+	"Date.h"
+	<iostream>
+
+1529170465 source:c:\users\shyseow\desktop\ict283_assignment1_seowhuiyin_33255186\assignment01\data.cpp
+	"Data.h"
+	"Time.h"
+	"Date.h"
+
+1529856209 c:\users\shyseow\desktop\ict283_assignment1_seowhuiyin_33255186\assignment01\vector.h
+	<iostream>
+
+1529856209 c:\users\shyseow\desktop\ict283_assignment1_seowhuiyin_33255186\assignment01\menu.h
+	<iostream>
+	<string>
+	<sstream>
+	<fstream>
+	<cstdlib>
+	<iomanip>
+	"Vector.h"
+	"Time.h"
+	"Weather.h"
+	"Date.h"
+
+1529923554 source:c:\users\shyseow\desktop\ict283_assignment1_seowhuiyin_33255186\assignment01\menu.cpp
+	"Menu.h"
+
+1529408655 c:\users\shyseow\desktop\ict283_assignment1_seowhuiyin_33255186\assignment01\weatherdata.h
+	"Time.h"
+	"Date.h"
+	<iostream>
+
+1529408655 source:c:\users\shyseow\desktop\ict283_assignment1_seowhuiyin_33255186\assignment01\weatherdata.cpp
+	"weatherData.h"
+	"Time.h"
+	"Date.h"
+
+1529506949 source:c:\users\shyseow\desktop\ict283_assignment1_seowhuiyin_33255186\assignment01\weather.cpp
+	"Weather.h"
+	"Time.h"
+	"Date.h"
+
+1529858857 c:\users\shyseow\desktop\ict283_assignment1_seowhuiyin_33255186\assignment01\weather.h
+	"Time.h"
+	"Date.h"
+	<iostream>
+
